@@ -1,0 +1,16 @@
+/* Add your styles here */
+
+table, th, td {
+
+  border: 1px solid;
+  border-collapse: collapse;
+  border-color: rebeccapurple;
+  width: 30%;
+
+}
+
+p {
+
+  color: blueviolet;
+
+}
